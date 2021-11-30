@@ -4,12 +4,12 @@ import { createTheme, responsiveFontSizes } from "@mui/material/styles";
 //https://bareynol.github.io/mui-theme-creator/
 let theme = createTheme({
   palette: {
-    type: "dark",
+    type: "light",
     primary: {
       main: "#85bb65",
     },
     background: {
-      default: "#111111",
+      default: "white",
       paper: "#212121",
     },
   },
