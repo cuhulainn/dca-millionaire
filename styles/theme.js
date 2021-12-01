@@ -8,43 +8,39 @@ let theme = createTheme({
     primary: {
       main: "#85bb65",
     },
-    background: {
-      default: "white",
-      paper: "#212121",
-    },
   },
   typography: {
-    fontFamily: "Open Sans",
+    fontFamily: "Jura",
     h1: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     h2: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     h3: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     h4: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     h6: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     h5: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     subtitle1: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     subtitle2: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
     button: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
       fontWeight: 900,
     },
     overline: {
-      fontFamily: "Ubuntu Mono",
+      fontFamily: "Jura",
     },
   },
 });
