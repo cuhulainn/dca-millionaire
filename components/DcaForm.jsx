@@ -9,32 +9,106 @@ import {
   InputLabel,
   Button,
   FormControl,
+  InputAdornment,
 } from "@mui/material";
-import AdapterMoment from "@mui/lab/AdapterMoment";
+import DateAdapter from "@mui/lab/AdapterDateFns";
 import LocalizationProvider from "@mui/lab/LocalizationProvider";
 import DatePicker from "@mui/lab/DatePicker";
+import getUnixTime from "date-fns/getUnixTime";
 
 const DcaForm = () => {
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [coins, setCoins] = useState([]);
-  const coinsUrl = `https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false`;
+  const baseUrl = `https://api.coingecko.com/api/v3/`;
+  const coinsUrl = `${baseUrl}coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false`;
+  const priceHistoryUrlBase = `https://api.coingecko.com/api/v3`;
 
   const [inputs, setInputs] = useState({
     frequency: "weekly",
     targetAmount: "1000000",
     dcaAmount: "100",
-    coin: "btc",
-    startDate: undefined,
+    coin: "bitcoin",
+    startDate: null,
+    endDate: Date.now(),
   });
 
   const handleChange = (e) => {
     setInputs((values) => ({ ...values, [e.target.name]: e.target.value }));
   };
 
+  const handleDateChange = (date) => {
+    setInputs((values) => ({ ...values, startDate: date }));
+  };
+
+  const setDaysBetweenBuys = (frequency) => {
+    let days = 0;
+    switch (frequency) {
+      case "daily":
+        days = 1;
+        break;
+      case "weekly":
+        days = 7;
+        break;
+      case "monthly":
+        days = 30.4166666667;
+        break;
+      default:
+        console.log("frequency error");
+    }
+    return days;
+  };
+
+  const calculateStartDate = (
+    { frequency, targetAmount, dcaAmount },
+    { prices }
+  ) => {
+    // based on the premise that you are investing (dcaAmount) every (frequency)
+    // determine the needed starting date
+    // that will result in you owning >= (targetValue) worth of (coin) today
+    let coinAmount = 0;
+    let usdAmount = 0;
+    let todaysPrice = prices[prices.length - 1][1];
+    let daysBetweenBuys = setDaysBetweenBuys(frequency);
+    for (
+      let i = prices.length - 1;
+      i > prices.length / daysBetweenBuys;
+      i -= daysBetweenBuys
+    ) {
+      const currentDate = prices[i][0];
+      const currentPrice = prices[i][1];
+      //get amount of coin purchased on current date
+      coinAmount += dcaAmount / currentPrice;
+      //see if that new coin total is enough to meet target
+      usdAmount = coinAmount * todaysPrice;
+      if (usdAmount >= targetAmount) {
+        return { currentDate, usdAmount };
+      }
+    }
+    console.log("You'd have to invest more!");
+  };
+
   const handleSubmit = (e) => {
+    fetch(
+      `${baseUrl}/coins/${inputs.coin}/market_chart?vs_currency=usd&days=max&interval=${inputs.frequency}`
+    )
+      .then((response) => response.json())
+      .then(
+        (result) => {
+          const retOjb = calculateStartDate(inputs, result);
+          setInputs((values) => ({
+            ...values,
+            startDate: retOjb.currentDate,
+            targetAmount: retOjb.usdAmount,
+          }));
+          setIsLoaded(true);
+        },
+        (error) => {
+          setError(error);
+          setIsLoaded(true);
+        }
+      );
     e.preventDefault();
-    console.log(inputs);
   };
 
   useEffect(() => {
@@ -42,12 +116,12 @@ const DcaForm = () => {
       .then((response) => response.json())
       .then(
         (result) => {
-          setIsLoaded(true);
           setCoins(result);
+          setIsLoaded(true);
         },
         (error) => {
-          setIsLoaded(true);
           setError(error);
+          setIsLoaded(true);
         }
       );
   }, [coinsUrl]);
@@ -64,6 +138,11 @@ const DcaForm = () => {
               name="dcaAmount"
               value={inputs.dcaAmount}
               onChange={handleChange}
+              InputProps={{
+                startAdornment: (
+                  <InputAdornment position="start">$</InputAdornment>
+                ),
+              }}
             />
           </Grid>
           <Grid item>
@@ -74,6 +153,11 @@ const DcaForm = () => {
               name="targetAmount"
               value={inputs.targetAmount}
               onChange={handleChange}
+              InputProps={{
+                startAdornment: (
+                  <InputAdornment position="start">$</InputAdornment>
+                ),
+              }}
             />
           </Grid>
           <Grid item>
@@ -84,7 +168,7 @@ const DcaForm = () => {
                 id="frequency"
                 name="frequency"
                 label="How often to DCA?"
-                value={inputs.frequency ?? "weekly"}
+                value={inputs.frequency}
                 onChange={handleChange}
               >
                 <MenuItem value="daily">Daily</MenuItem>
@@ -102,29 +186,15 @@ const DcaForm = () => {
                 id="coin"
                 name="coin"
                 label="Which coin?"
-                value={inputs.coin ?? "btc"}
+                value={inputs.coin}
                 onChange={handleChange}
               >
                 {coins.map(({ id, symbol, name }) => (
-                  <MenuItem key={id} value={symbol}>
-                    {name}
+                  <MenuItem key={id} value={id}>
+                    {`${symbol.toUpperCase()}: ${name}`}
                   </MenuItem>
                 ))}
               </Select>
-            </FormControl>
-          </Grid>
-          <Grid item>
-            <FormControl fullWidth>
-              <LocalizationProvider dateAdapter={AdapterMoment}>
-                <DatePicker
-                  label="Starting Date"
-                  id="startDate"
-                  name="startDate"
-                  value={inputs.startDate ?? undefined}
-                  onChange={handleChange}
-                  renderInput={(params) => <TextField {...params} />}
-                />
-              </LocalizationProvider>
             </FormControl>
           </Grid>
           <Grid item>
@@ -136,6 +206,19 @@ const DcaForm = () => {
             >
               Calculate
             </Button>
+          </Grid>
+          <Grid item>
+            <FormControl fullWidth>
+              <LocalizationProvider dateAdapter={DateAdapter}>
+                <DatePicker
+                  label="Starting Date"
+                  id="startDate"
+                  value={inputs.startDate}
+                  onChange={handleDateChange}
+                  renderInput={(params) => <TextField {...params} />}
+                />
+              </LocalizationProvider>
+            </FormControl>
           </Grid>
         </>
       ) : (

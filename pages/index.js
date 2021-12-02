@@ -1,13 +1,4 @@
-import { useState } from "react";
-import {
-  Typography,
-  TextField,
-  MenuItem,
-  Select,
-  Grid,
-  InputLabel,
-  Button,
-} from "@mui/material";
+import { Typography, Grid } from "@mui/material";
 import DcaForm from "../components/DcaForm";
 
 const Home = () => {
