@@ -10,6 +10,7 @@ import {
   Button,
   FormControl,
   InputAdornment,
+  Container,
 } from "@mui/material";
 import DateAdapter from "@mui/lab/AdapterDateFns";
 import LocalizationProvider from "@mui/lab/LocalizationProvider";
@@ -22,7 +23,6 @@ const DcaForm = () => {
   const [coins, setCoins] = useState([]);
   const baseUrl = `https://api.coingecko.com/api/v3/`;
   const coinsUrl = `${baseUrl}coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false`;
-  const priceHistoryUrlBase = `https://api.coingecko.com/api/v3`;
 
   const [inputs, setInputs] = useState({
     frequency: "weekly",
@@ -54,7 +54,6 @@ const DcaForm = () => {
         days = 30.4166666667;
         break;
       default:
-        console.log("frequency error");
     }
     return days;
   };
@@ -85,7 +84,7 @@ const DcaForm = () => {
         return { currentDate, usdAmount };
       }
     }
-    console.log("You'd have to invest more!");
+    return { currentDate, usdAmount };
   };
 
   const handleSubmit = (e) => {
@@ -103,8 +102,8 @@ const DcaForm = () => {
           }));
           setIsLoaded(true);
         },
-        (error) => {
-          setError(error);
+        (err) => {
+          setError(err);
           setIsLoaded(true);
         }
       );
