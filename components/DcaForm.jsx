@@ -69,22 +69,38 @@ const DcaForm = () => {
     let usdAmount = 0;
     let todaysPrice = prices[prices.length - 1][1];
     let daysBetweenBuys = setDaysBetweenBuys(frequency);
+    let chartData = [];
     for (
       let i = prices.length - 1;
       i > prices.length / daysBetweenBuys;
       i -= daysBetweenBuys
     ) {
+      let dataPoint = {
+        date: null,
+        coinPrice: null,
+        coinAmountPurchased: null,
+        usdTotalInvested: null,
+        usdTotalValue: null,
+      };
       const currentDate = prices[i][0];
       const currentPrice = prices[i][1];
-      //get amount of coin purchased on current date
+      //accumulate amount of coin purchased on current date
       coinAmount += dcaAmount / currentPrice;
       //see if that new coin total is enough to meet target
       usdAmount = coinAmount * todaysPrice;
+      chartData.push({
+        date: currentDate,
+        coinPrice: currentPrice,
+        coinAmountPurchased: dcaAmount / currentPrice,
+        coinTotal: coinAmount,
+        usdTotalInvested: dcaAmount,
+        usdTotalValue: usdAmount,
+      });
       if (usdAmount >= targetAmount) {
-        return { currentDate, usdAmount };
+        return { currentDate, usdAmount, chartData };
       }
     }
-    return { currentDate, usdAmount };
+    return { currentDate, usdAmount, chartData };
   };
 
   const handleSubmit = (e) => {
