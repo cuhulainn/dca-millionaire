@@ -1,5 +1,5 @@
 import React from "react";
-import { Box } from "@mui/system";
+import { Grid } from "@mui/system";
 import { Chart } from "react-chartjs-2";
 import {
   Chart as ChartJS,
@@ -12,11 +12,25 @@ import {
 
 ChartJS.register(LineController, LineElement, PointElement, LinearScale, Title);
 
-const DcaChart = () => {
+const DcaChart = ({ dcaChartData }) => {
+  const chartData = {
+    labels: dcaChartData.map((dp) => dp.date),
+    datasets: [
+      {
+        label: "usdTotalInvested",
+        data: dcaChartData.map((dp) => dp.usdTotalInvested),
+      },
+      {
+        label: "usdTotalValue",
+        data: dcaChartData.map((dp) => dp.usdTotalValue),
+      },
+    ],
+  };
+
   return (
-    <Box sx={{ marginTop: 3 }}>
+    <Grid item>
       <Chart type="line" data={chartData} />;
-    </Box>
+    </Grid>
   );
 };
 

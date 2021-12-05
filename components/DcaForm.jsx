@@ -17,7 +17,7 @@ import LocalizationProvider from "@mui/lab/LocalizationProvider";
 import DatePicker from "@mui/lab/DatePicker";
 import getUnixTime from "date-fns/getUnixTime";
 
-const DcaForm = () => {
+const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [coins, setCoins] = useState([]);
@@ -110,13 +110,15 @@ const DcaForm = () => {
       .then((response) => response.json())
       .then(
         (result) => {
-          const retOjb = calculateStartDate(inputs, result);
+          const retObj = calculateStartDate(inputs, result);
           setInputs((values) => ({
             ...values,
-            startDate: retOjb.currentDate,
-            targetAmount: retOjb.usdAmount,
+            startDate: retObj.currentDate,
+            targetAmount: retObj.usdAmount,
           }));
+          setDcaChartData(retObj.chartData);
           setIsLoaded(true);
+          setIsChartDataLoaded(true);
         },
         (err) => {
           setError(err);

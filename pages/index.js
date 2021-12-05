@@ -1,8 +1,12 @@
+import { useState, useEffect } from "react";
 import { Typography, Grid, Box } from "@mui/material";
 import DcaChart from "../components/DcaChart";
 import DcaForm from "../components/DcaForm";
 
 const Home = () => {
+  const [dcaChartData, setDcaChartData] = useState([]);
+  const [isChartDataLoaded, setIsChartDataLoaded] = useState(false);
+
   return (
     <>
       <Box
@@ -33,8 +37,11 @@ const Home = () => {
       </Box>
 
       <Grid container spacing={2} direction="column" alignContent="center">
-        <DcaForm />
-        <DcaChart />
+        <DcaForm
+          setDcaChartData={setDcaChartData}
+          setIsChartDataLoaded={setIsChartDataLoaded}
+        />
+        {isChartDataLoaded ?? <DcaChart dcaChartData={dcaChartData} />}
       </Grid>
     </>
   );
