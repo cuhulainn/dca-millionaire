@@ -15,7 +15,7 @@ import {
 import DateAdapter from "@mui/lab/AdapterDateFns";
 import LocalizationProvider from "@mui/lab/LocalizationProvider";
 import DatePicker from "@mui/lab/DatePicker";
-import getUnixTime from "date-fns/getUnixTime";
+import { formatISO9075 } from "date-fns";
 
 const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
   const [error, setError] = useState(null);
@@ -65,6 +65,7 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
     // based on the premise that you are investing (dcaAmount) every (frequency)
     // determine the needed starting date
     // that will result in you owning >= (targetValue) worth of (coin) today
+    let count = 0;
     let coinAmount = 0;
     let usdAmount = 0;
     let todaysPrice = prices[prices.length - 1][1];
@@ -75,13 +76,7 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
       i > prices.length / daysBetweenBuys;
       i -= daysBetweenBuys
     ) {
-      let dataPoint = {
-        date: null,
-        coinPrice: null,
-        coinAmountPurchased: null,
-        usdTotalInvested: null,
-        usdTotalValue: null,
-      };
+      count++;
       const currentDate = prices[i][0];
       const currentPrice = prices[i][1];
       //accumulate amount of coin purchased on current date
@@ -89,11 +84,11 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
       //see if that new coin total is enough to meet target
       usdAmount = coinAmount * todaysPrice;
       chartData.push({
-        date: currentDate,
+        date: formatISO9075(currentDate, { representation: "date" }),
         coinPrice: currentPrice,
         coinAmountPurchased: dcaAmount / currentPrice,
         coinTotal: coinAmount,
-        usdTotalInvested: dcaAmount,
+        usdTotalInvested: count * dcaAmount,
         usdTotalValue: usdAmount,
       });
       if (usdAmount >= targetAmount) {

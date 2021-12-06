@@ -4,9 +4,10 @@ import DcaChart from "../components/DcaChart";
 import DcaForm from "../components/DcaForm";
 
 const Home = () => {
-  const [dcaChartData, setDcaChartData] = useState([]);
+  const testChartData = require("../responseObj.json");
+  const [dcaChartData, setDcaChartData] = useState(testChartData);
   const [isChartDataLoaded, setIsChartDataLoaded] = useState(false);
-
+  console.log(dcaChartData);
   return (
     <>
       <Box
@@ -41,8 +42,8 @@ const Home = () => {
           setDcaChartData={setDcaChartData}
           setIsChartDataLoaded={setIsChartDataLoaded}
         />
-        {isChartDataLoaded ?? <DcaChart dcaChartData={dcaChartData} />}
       </Grid>
+      <DcaChart dcaChartData={dcaChartData} />
     </>
   );
 };

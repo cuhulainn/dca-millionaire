@@ -1,0 +1,2626 @@
+[
+  {
+    "date": 1638741465000,
+    "coinPrice": 49329.303068248235,
+    "coinAmountPurchased": 0.002027192637642735,
+    "coinTotal": 0.002027192637642735,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 100.00000000000001
+  },
+  {
+    "date": 1638144000000,
+    "coinPrice": 57237.66113709043,
+    "coinAmountPurchased": 0.0017471014365958999,
+    "coinTotal": 0.0037742940742386353,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 186.18329625681105
+  },
+  {
+    "date": 1637539200000,
+    "coinPrice": 59139.779279527174,
+    "coinAmountPurchased": 0.0016909092529301625,
+    "coinTotal": 0.005465203327168797,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 269.5946712555082
+  },
+  {
+    "date": 1636934400000,
+    "coinPrice": 65648.97779110243,
+    "coinAmountPurchased": 0.0015232529639410965,
+    "coinTotal": 0.006988456291109894,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 344.73567836336593
+  },
+  {
+    "date": 1636329600000,
+    "coinPrice": 63153.230193019495,
+    "coinAmountPurchased": 0.001583450279492644,
+    "coinTotal": 0.008571906570602538,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 422.846177093961
+  },
+  {
+    "date": 1635724800000,
+    "coinPrice": 61471.86846276259,
+    "coinAmountPurchased": 0.0016267603783765958,
+    "coinTotal": 0.010198666948979133,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 503.0931328183182
+  },
+  {
+    "date": 1635120000000,
+    "coinPrice": 61173.1663907232,
+    "coinAmountPurchased": 0.0016347036764663013,
+    "coinTotal": 0.011833370625445434,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 583.731925901504
+  },
+  {
+    "date": 1634515200000,
+    "coinPrice": 61583.77443961336,
+    "coinAmountPurchased": 0.0016238043366123343,
+    "coinTotal": 0.013457174962057769,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 663.8330621457897
+  },
+  {
+    "date": 1633910400000,
+    "coinPrice": 54711.86959664297,
+    "coinAmountPurchased": 0.0018277569517773495,
+    "coinTotal": 0.015284931913835119,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 753.9950387551121
+  },
+  {
+    "date": 1633305600000,
+    "coinPrice": 48282.97113857447,
+    "coinAmountPurchased": 0.0020711235792220646,
+    "coinTotal": 0.017356055493057184,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 856.1621214863524
+  },
+  {
+    "date": 1632700800000,
+    "coinPrice": 43336.861233242744,
+    "coinAmountPurchased": 0.0023075044466601153,
+    "coinTotal": 0.0196635599397173,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 969.9897076669797
+  },
+  {
+    "date": 1632096000000,
+    "coinPrice": 47371.03933236471,
+    "coinAmountPurchased": 0.002110994426328288,
+    "coinTotal": 0.021774554366045588,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1074.1235914987105
+  },
+  {
+    "date": 1631491200000,
+    "coinPrice": 46195.21830082935,
+    "coinAmountPurchased": 0.0021647262136264152,
+    "coinTotal": 0.023939280579672,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1180.9080269504695
+  },
+  {
+    "date": 1630886400000,
+    "coinPrice": 51696.206431317885,
+    "coinAmountPurchased": 0.0019343779148061312,
+    "coinTotal": 0.025873658494478133,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1276.3295413584672
+  },
+  {
+    "date": 1630281600000,
+    "coinPrice": 48907.27073106221,
+    "coinAmountPurchased": 0.002044685759503802,
+    "coinTotal": 0.027918344253981934,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1377.1924648683614
+  },
+  {
+    "date": 1629676800000,
+    "coinPrice": 49250.54486971799,
+    "coinAmountPurchased": 0.0020304343893966874,
+    "coinTotal": 0.02994877864337862,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1477.352378223104
+  },
+  {
+    "date": 1629072000000,
+    "coinPrice": 47025.00323011282,
+    "coinAmountPurchased": 0.002126528296248244,
+    "coinTotal": 0.03207530693962687,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1582.2525370319395
+  },
+  {
+    "date": 1628467200000,
+    "coinPrice": 43753.217862646314,
+    "coinAmountPurchased": 0.002285546181172964,
+    "coinTotal": 0.03436085312079983,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1694.996937279498
+  },
+  {
+    "date": 1627862400000,
+    "coinPrice": 39914.82975848789,
+    "coinAmountPurchased": 0.0025053344986078765,
+    "coinTotal": 0.03686618761940771,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1818.5833420486638
+  },
+  {
+    "date": 1627257600000,
+    "coinPrice": 35456.124660766836,
+    "coinAmountPurchased": 0.0028203871956331626,
+    "coinTotal": 0.03968657481504087,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1957.7110767918587
+  },
+  {
+    "date": 1626652800000,
+    "coinPrice": 31919.393922554555,
+    "coinAmountPurchased": 0.00313289156563023,
+    "coinTotal": 0.0428194663806711,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2112.254434312791
+  },
+  {
+    "date": 1626048000000,
+    "coinPrice": 34299.938016517444,
+    "coinAmountPurchased": 0.0029154571635623392,
+    "coinTotal": 0.04573492354423344,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2256.071904316653
+  },
+  {
+    "date": 1625443200000,
+    "coinPrice": 35394.213074080915,
+    "coinAmountPurchased": 0.002825320619240712,
+    "coinTotal": 0.04856024416347415,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2395.443001408149
+  },
+  {
+    "date": 1624838400000,
+    "coinPrice": 34607.293274083386,
+    "coinAmountPurchased": 0.002889564324144579,
+    "coinTotal": 0.05144980848761873,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2537.983195689075
+  },
+  {
+    "date": 1624233600000,
+    "coinPrice": 35787.07740523232,
+    "coinAmountPurchased": 0.002794304739324126,
+    "coinTotal": 0.05424411322694286,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2675.824301040237
+  },
+  {
+    "date": 1623628800000,
+    "coinPrice": 39147.70567879997,
+    "coinAmountPurchased": 0.002554428114395321,
+    "coinTotal": 0.05679854134133818,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2801.832459661298
+  },
+  {
+    "date": 1623024000000,
+    "coinPrice": 35834.4744744042,
+    "coinAmountPurchased": 0.002790608805256175,
+    "coinTotal": 0.059589150146594355,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 2939.4912471607017
+  },
+  {
+    "date": 1622419200000,
+    "coinPrice": 35714.75202018067,
+    "coinAmountPurchased": 0.002799963442095156,
+    "coinTotal": 0.06238911358868951,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3077.611492375829
+  },
+  {
+    "date": 1621814400000,
+    "coinPrice": 34977.527801962424,
+    "coinAmountPurchased": 0.0028589785008873462,
+    "coinTotal": 0.06524809208957685,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3218.6429093117067
+  },
+  {
+    "date": 1621209600000,
+    "coinPrice": 46585.06413538846,
+    "coinAmountPurchased": 0.002146610761538799,
+    "coinTotal": 0.06739470285111565,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3324.5337221372174
+  },
+  {
+    "date": 1620604800000,
+    "coinPrice": 58213.926293744385,
+    "coinAmountPurchased": 0.0017178020169161122,
+    "coinTotal": 0.06911250486803176,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3409.2716984409203
+  },
+  {
+    "date": 1620000000000,
+    "coinPrice": 56600.74528738432,
+    "coinAmountPurchased": 0.0017667611882539803,
+    "coinTotal": 0.07087926605628574,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3496.424796545519
+  },
+  {
+    "date": 1619395200000,
+    "coinPrice": 48981.4413932161,
+    "coinAmountPurchased": 0.002041589572614128,
+    "coinTotal": 0.07292085562889987,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3597.134987313977
+  },
+  {
+    "date": 1618790400000,
+    "coinPrice": 56288.94534001195,
+    "coinAmountPurchased": 0.001776547764324816,
+    "coinTotal": 0.07469740339322468,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3684.7708503955746
+  },
+  {
+    "date": 1618185600000,
+    "coinPrice": 59988.02095852983,
+    "coinAmountPurchased": 0.0016669994842658795,
+    "coinTotal": 0.07636440287749056,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3767.0027731695395
+  },
+  {
+    "date": 1617580800000,
+    "coinPrice": 58228.802623466196,
+    "coinAmountPurchased": 0.0017173631518175856,
+    "coinTotal": 0.07808176602930815,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3851.7191005637915
+  },
+  {
+    "date": 1616976000000,
+    "coinPrice": 55728.10132780653,
+    "coinAmountPurchased": 0.0017944268262752247,
+    "coinTotal": 0.07987619285558338,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 3940.236925310917
+  },
+  {
+    "date": 1616371200000,
+    "coinPrice": 57573.539344778685,
+    "coinAmountPurchased": 0.001736909023451742,
+    "coinTotal": 0.08161310187903512,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4025.917436930743
+  },
+  {
+    "date": 1615766400000,
+    "coinPrice": 59428.967566027764,
+    "coinAmountPurchased": 0.001682681091319588,
+    "coinTotal": 0.0832957829703547,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4108.922922451657
+  },
+  {
+    "date": 1615161600000,
+    "coinPrice": 51313.09262027362,
+    "coinAmountPurchased": 0.001948820367153048,
+    "coinTotal": 0.08524460333750775,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4205.056872968525
+  },
+  {
+    "date": 1614556800000,
+    "coinPrice": 44970.163459946736,
+    "coinAmountPurchased": 0.002223696609176578,
+    "coinTotal": 0.08746829994668433,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4314.750276934432
+  },
+  {
+    "date": 1613952000000,
+    "coinPrice": 57669.3035269179,
+    "coinAmountPurchased": 0.0017340247563996276,
+    "coinTotal": 0.08920232470308395,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4400.288509670714
+  },
+  {
+    "date": 1613347200000,
+    "coinPrice": 48607.8745224845,
+    "coinAmountPurchased": 0.0020572798334093606,
+    "coinTotal": 0.09125960453649332,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4501.7726900691605
+  },
+  {
+    "date": 1612742400000,
+    "coinPrice": 38833.34026455532,
+    "coinAmountPurchased": 0.002575106836515782,
+    "coinTotal": 0.0938347113730091,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4628.800915640765
+  },
+  {
+    "date": 1612137600000,
+    "coinPrice": 33064.78676701507,
+    "coinAmountPurchased": 0.0030243654890210413,
+    "coinTotal": 0.09685907686203014,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4777.990757437835
+  },
+  {
+    "date": 1611532800000,
+    "coinPrice": 32273.51735032927,
+    "coinAmountPurchased": 0.003098515693672284,
+    "coinTotal": 0.09995759255570243,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 4930.838377152719
+  },
+  {
+    "date": 1610928000000,
+    "coinPrice": 35804.263885674685,
+    "coinAmountPurchased": 0.002792963439195578,
+    "coinTotal": 0.102750555994898,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 5068.613317103334
+  },
+  {
+    "date": 1610323200000,
+    "coinPrice": 38397.895985418174,
+    "coinAmountPurchased": 0.0026043093621060795,
+    "coinTotal": 0.10535486535700408,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 5197.082082910141
+  },
+  {
+    "date": 1609718400000,
+    "coinPrice": 33008.226203489285,
+    "coinAmountPurchased": 0.0030295478279723205,
+    "coinTotal": 0.10838441318497641,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 5346.527565875941
+  },
+  {
+    "date": 1609113600000,
+    "coinPrice": 26423.22879190229,
+    "coinAmountPurchased": 0.003784548844789407,
+    "coinTotal": 0.11216896202976581,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 5533.216722817147
+  },
+  {
+    "date": 1608508800000,
+    "coinPrice": 23518.31842054723,
+    "coinAmountPurchased": 0.004252004680429578,
+    "coinTotal": 0.11642096671019539,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 5742.965150345667
+  },
+  {
+    "date": 1607904000000,
+    "coinPrice": 19151.13442340493,
+    "coinAmountPurchased": 0.005221622792109291,
+    "coinTotal": 0.12164258950230468,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 6000.544163565699
+  },
+  {
+    "date": 1607299200000,
+    "coinPrice": 19325.55411859109,
+    "coinAmountPurchased": 0.005174495871443111,
+    "coinTotal": 0.12681708537374778,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 6255.798438633515
+  },
+  {
+    "date": 1606694400000,
+    "coinPrice": 18169.95420978285,
+    "coinAmountPurchased": 0.005503591194861636,
+    "coinTotal": 0.1323206765686094,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 6527.286756648587
+  },
+  {
+    "date": 1606089600000,
+    "coinPrice": 18390.61184379203,
+    "coinAmountPurchased": 0.005437556991001155,
+    "coinTotal": 0.13775823355961056,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 6795.517653408554
+  },
+  {
+    "date": 1605484800000,
+    "coinPrice": 15984.673784156614,
+    "coinAmountPurchased": 0.006255992543252031,
+    "coinTotal": 0.1440142261028626,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 7104.121405567335
+  },
+  {
+    "date": 1604880000000,
+    "coinPrice": 15496.316149147417,
+    "coinAmountPurchased": 0.006453146608363553,
+    "coinTotal": 0.15046737271122615,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 7422.450630355139
+  },
+  {
+    "date": 1604275200000,
+    "coinPrice": 13720.361465146289,
+    "coinAmountPurchased": 0.0072884377174777144,
+    "coinTotal": 0.15775581042870387,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 7781.984183414649
+  },
+  {
+    "date": 1603670400000,
+    "coinPrice": 13021.410842124118,
+    "coinAmountPurchased": 0.007679659386562101,
+    "coinTotal": 0.16543546981526597,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 8160.816428755288
+  },
+  {
+    "date": 1603065600000,
+    "coinPrice": 11495.899975689872,
+    "coinAmountPurchased": 0.008698753487023009,
+    "coinTotal": 0.17413422330228898,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 8589.919875832627
+  },
+  {
+    "date": 1602460800000,
+    "coinPrice": 11377.814876756858,
+    "coinAmountPurchased": 0.008789033842015197,
+    "coinTotal": 0.18292325714430419,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 9023.476789902485
+  },
+  {
+    "date": 1601856000000,
+    "coinPrice": 10670.700811335208,
+    "coinAmountPurchased": 0.009371455705493364,
+    "coinTotal": 0.19229471284979754,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 9485.76416858943
+  },
+  {
+    "date": 1601251200000,
+    "coinPrice": 10765.300521660893,
+    "coinAmountPurchased": 0.009289104358841605,
+    "coinTotal": 0.20158381720863916,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 9943.989212739316
+  },
+  {
+    "date": 1600646400000,
+    "coinPrice": 10923.32666818137,
+    "coinAmountPurchased": 0.009154720264046543,
+    "coinTotal": 0.2107385374726857,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 10395.5851831495
+  },
+  {
+    "date": 1600041600000,
+    "coinPrice": 10328.866065987393,
+    "coinAmountPurchased": 0.009681604869415106,
+    "coinTotal": 0.2204201423421008,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 10873.172003939906
+  },
+  {
+    "date": 1599436800000,
+    "coinPrice": 10260.0177277544,
+    "coinAmountPurchased": 0.009746571853330208,
+    "coinTotal": 0.230166714195431,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 11353.96360076929
+  },
+  {
+    "date": 1598832000000,
+    "coinPrice": 11701.004008657852,
+    "coinAmountPurchased": 0.008546275168011874,
+    "coinTotal": 0.23871298936344287,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 11775.54539863679
+  },
+  {
+    "date": 1598227200000,
+    "coinPrice": 11647.928120934363,
+    "coinAmountPurchased": 0.008585217813996803,
+    "coinTotal": 0.24729820717743967,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 12199.048210090363
+  },
+  {
+    "date": 1597622400000,
+    "coinPrice": 11901.776488302461,
+    "coinAmountPurchased": 0.008402107038246263,
+    "coinTotal": 0.25570031421568595,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 12613.518294591875
+  },
+  {
+    "date": 1597017600000,
+    "coinPrice": 11682.851469154939,
+    "coinAmountPurchased": 0.008559554169118726,
+    "coinTotal": 0.2642598683848047,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 13035.75513632942
+  },
+  {
+    "date": 1596412800000,
+    "coinPrice": 11066.306240590267,
+    "coinAmountPurchased": 0.009036438882669678,
+    "coinTotal": 0.2732963072674744,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 13481.516368630337
+  },
+  {
+    "date": 1595808000000,
+    "coinPrice": 9925.751397476346,
+    "coinAmountPurchased": 0.010074804011858016,
+    "coinTotal": 0.2833711112793324,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 13978.499429084484
+  },
+  {
+    "date": 1595203200000,
+    "coinPrice": 9202.615839500108,
+    "coinAmountPurchased": 0.010866475548264554,
+    "coinTotal": 0.29423758682759693,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 14514.535094688534
+  },
+  {
+    "date": 1594598400000,
+    "coinPrice": 9297.479635872663,
+    "coinAmountPurchased": 0.010755603014624294,
+    "coinTotal": 0.30499318984222124,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 15045.1014954787
+  },
+  {
+    "date": 1593993600000,
+    "coinPrice": 9087.407312582163,
+    "coinAmountPurchased": 0.011004238784536803,
+    "coinTotal": 0.31599742862675806,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 15587.932925516488
+  },
+  {
+    "date": 1593388800000,
+    "coinPrice": 9139.903276297824,
+    "coinAmountPurchased": 0.010941034820283748,
+    "coinTotal": 0.3269384634470418,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 16127.646548046523
+  },
+  {
+    "date": 1592784000000,
+    "coinPrice": 9298.360829121417,
+    "coinAmountPurchased": 0.010754583720478052,
+    "coinTotal": 0.33769304716751986,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 16658.162667766832
+  },
+  {
+    "date": 1592179200000,
+    "coinPrice": 9345.960907722063,
+    "coinAmountPurchased": 0.010699809360145664,
+    "coinTotal": 0.3483928565276655,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 17185.976806465937
+  },
+  {
+    "date": 1591574400000,
+    "coinPrice": 9738.603356828593,
+    "coinAmountPurchased": 0.010268412865370596,
+    "coinTotal": 0.3586612693930361,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 17692.510456731703
+  },
+  {
+    "date": 1590969600000,
+    "coinPrice": 9466.961781429516,
+    "coinAmountPurchased": 0.010563050988138662,
+    "coinTotal": 0.36922432038117475,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 18213.578400250954
+  },
+  {
+    "date": 1590364800000,
+    "coinPrice": 8731.848525870651,
+    "coinAmountPurchased": 0.01145232875990929,
+    "coinTotal": 0.38067664914108407,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 18778.513796485735
+  },
+  {
+    "date": 1589760000000,
+    "coinPrice": 9666.32719340344,
+    "coinAmountPurchased": 0.010345190887832006,
+    "coinTotal": 0.39102184002891605,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 19288.83485309048
+  },
+  {
+    "date": 1589155200000,
+    "coinPrice": 8752.617087745832,
+    "coinAmountPurchased": 0.0114251542135901,
+    "coinTotal": 0.40244699424250613,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 19852.429747894137
+  },
+  {
+    "date": 1588550400000,
+    "coinPrice": 8888.671912686868,
+    "coinAmountPurchased": 0.01125027461720904,
+    "coinTotal": 0.4136972688597152,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 20407.397954087464
+  },
+  {
+    "date": 1587945600000,
+    "coinPrice": 7683.867415083342,
+    "coinAmountPurchased": 0.013014279736750945,
+    "coinTotal": 0.42671154859646615,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 21049.383303436614
+  },
+  {
+    "date": 1587340800000,
+    "coinPrice": 7127.511949689152,
+    "coinAmountPurchased": 0.01403014133204803,
+    "coinTotal": 0.4407416899285142,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 21741.480397295567
+  },
+  {
+    "date": 1586736000000,
+    "coinPrice": 6913.158787469097,
+    "coinAmountPurchased": 0.014465167526784083,
+    "coinTotal": 0.45520685745529826,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 22455.03703015728
+  },
+  {
+    "date": 1586131200000,
+    "coinPrice": 6788.048272605917,
+    "coinAmountPurchased": 0.01473177502339862,
+    "coinTotal": 0.4699386324786969,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 23181.74522501976
+  },
+  {
+    "date": 1585526400000,
+    "coinPrice": 5915.337154791903,
+    "coinAmountPurchased": 0.016905207156111445,
+    "coinTotal": 0.4868438396348083,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 24015.6673122551
+  },
+  {
+    "date": 1584921600000,
+    "coinPrice": 5859.647430299388,
+    "coinAmountPurchased": 0.017065873192799022,
+    "coinTotal": 0.5039097128276073,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 24857.514943106977
+  },
+  {
+    "date": 1584316800000,
+    "coinPrice": 5397.93335743919,
+    "coinAmountPurchased": 0.01852560848351054,
+    "coinTotal": 0.5224353213111179,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 25771.370298513782
+  },
+  {
+    "date": 1583712000000,
+    "coinPrice": 8041.365538071835,
+    "coinAmountPurchased": 0.012435698828333338,
+    "coinTotal": 0.5348710201394512,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 26384.814654882095
+  },
+  {
+    "date": 1583107200000,
+    "coinPrice": 8567.802248679225,
+    "coinAmountPurchased": 0.011671604583942815,
+    "coinTotal": 0.546542624723394,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 26960.566774696163
+  },
+  {
+    "date": 1582502400000,
+    "coinPrice": 9946.716123467522,
+    "coinAmountPurchased": 0.010053569314607023,
+    "coinTotal": 0.556596194038001,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 27456.50234233405
+  },
+  {
+    "date": 1581897600000,
+    "coinPrice": 9943.673602578743,
+    "coinAmountPurchased": 0.010056645460895509,
+    "coinTotal": 0.5666528394988964,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 27952.589654124487
+  },
+  {
+    "date": 1581292800000,
+    "coinPrice": 10148.379719131783,
+    "coinAmountPurchased": 0.009853789744532266,
+    "coinTotal": 0.5765066292434287,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 28438.670234803314
+  },
+  {
+    "date": 1580688000000,
+    "coinPrice": 9338.416631939404,
+    "coinAmountPurchased": 0.010708453471435229,
+    "coinTotal": 0.5872150827148639,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 28966.910781487975
+  },
+  {
+    "date": 1580083200000,
+    "coinPrice": 8595.728298493115,
+    "coinAmountPurchased": 0.01163368553860999,
+    "coinTotal": 0.5988487682534739,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 29540.792381222764
+  },
+  {
+    "date": 1579478400000,
+    "coinPrice": 8690.380569544623,
+    "coinAmountPurchased": 0.011506975925824158,
+    "coinTotal": 0.610355744179298,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 30108.42348406678
+  },
+  {
+    "date": 1578873600000,
+    "coinPrice": 8171.401185320944,
+    "coinAmountPurchased": 0.012237803252108022,
+    "coinTotal": 0.622593547431406,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 30712.10578957961
+  },
+  {
+    "date": 1578268800000,
+    "coinPrice": 7349.972248050628,
+    "coinAmountPurchased": 0.01360549354815893,
+    "coinTotal": 0.6361990409795649,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 31383.255304209837
+  },
+  {
+    "date": 1577664000000,
+    "coinPrice": 7394.029285530991,
+    "coinAmountPurchased": 0.01352442574114293,
+    "coinTotal": 0.6497234667207078,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 32050.40580041869
+  },
+  {
+    "date": 1577059200000,
+    "coinPrice": 7488.196174601466,
+    "coinAmountPurchased": 0.013354350990320065,
+    "coinTotal": 0.6630778177110279,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 32709.166627699953
+  },
+  {
+    "date": 1576454400000,
+    "coinPrice": 7108.563021778046,
+    "coinAmountPurchased": 0.0140675407524188,
+    "coinTotal": 0.6771453584634467,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 33403.108608900955
+  },
+  {
+    "date": 1575849600000,
+    "coinPrice": 7508.315669139108,
+    "coinAmountPurchased": 0.013318566294571609,
+    "coinTotal": 0.6904639247580183,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 34060.10420208043
+  },
+  {
+    "date": 1575244800000,
+    "coinPrice": 7405.808478752477,
+    "coinAmountPurchased": 0.013502914676622207,
+    "coinTotal": 0.7039668394346406,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 34726.193572468226
+  },
+  {
+    "date": 1574640000000,
+    "coinPrice": 6935.73862740252,
+    "coinAmountPurchased": 0.014418075041771096,
+    "coinTotal": 0.7183849144764116,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 35437.427165864494
+  },
+  {
+    "date": 1574035200000,
+    "coinPrice": 8508.499434051764,
+    "coinAmountPurchased": 0.011752953711178635,
+    "coinTotal": 0.7301378681875903,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 36017.19218143032
+  },
+  {
+    "date": 1573430400000,
+    "coinPrice": 9043.673292397065,
+    "coinAmountPurchased": 0.011057453842795172,
+    "coinTotal": 0.7411953220303855,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 36562.648673204734
+  },
+  {
+    "date": 1572825600000,
+    "coinPrice": 9204.286350451268,
+    "coinAmountPurchased": 0.0108645033620773,
+    "coinTotal": 0.7520598253924629,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 37098.58705223865
+  },
+  {
+    "date": 1572220800000,
+    "coinPrice": 9502.020114436129,
+    "coinAmountPurchased": 0.01052407791139834,
+    "coinTotal": 0.7625839033038612,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 37617.73248104387
+  },
+  {
+    "date": 1571616000000,
+    "coinPrice": 8208.362621758712,
+    "coinAmountPurchased": 0.012182697647265265,
+    "coinTotal": 0.7747666009511265,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 38218.69646547466
+  },
+  {
+    "date": 1571011200000,
+    "coinPrice": 8289.497236618896,
+    "coinAmountPurchased": 0.012063457788278099,
+    "coinTotal": 0.7868300587394046,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 38813.77843076365
+  },
+  {
+    "date": 1570406400000,
+    "coinPrice": 7890.234349864658,
+    "coinAmountPurchased": 0.012673894787639015,
+    "coinTotal": 0.7995039535270436,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 39438.972827798185
+  },
+  {
+    "date": 1569801600000,
+    "coinPrice": 8064.380983385267,
+    "coinAmountPurchased": 0.012400207803429195,
+    "coinTotal": 0.8119041613304728,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 40050.6664366428
+  },
+  {
+    "date": 1569196800000,
+    "coinPrice": 10041.304200624943,
+    "coinAmountPurchased": 0.009958865701307633,
+    "coinTotal": 0.8218630270317805,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 40541.93034103859
+  },
+  {
+    "date": 1568592000000,
+    "coinPrice": 10305.675020156998,
+    "coinAmountPurchased": 0.009703391558962295,
+    "coinTotal": 0.8315664185907428,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 41020.59188404052
+  },
+  {
+    "date": 1567987200000,
+    "coinPrice": 10404.333900445994,
+    "coinAmountPurchased": 0.009611379349879705,
+    "coinTotal": 0.8411777979406224,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 41494.71452889464
+  },
+  {
+    "date": 1567382400000,
+    "coinPrice": 9729.266231867814,
+    "coinAmountPurchased": 0.01027826740648273,
+    "coinTotal": 0.8514560653471052,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 42001.73429680552
+  },
+  {
+    "date": 1566777600000,
+    "coinPrice": 10090.061576030994,
+    "coinAmountPurchased": 0.009910742292946025,
+    "coinTotal": 0.8613668076400511,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 42490.624307005564
+  },
+  {
+    "date": 1566172800000,
+    "coinPrice": 10309.872435928555,
+    "coinAmountPurchased": 0.009699441057244617,
+    "coinTotal": 0.8710662486972958,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 42969.09097451099
+  },
+  {
+    "date": 1565568000000,
+    "coinPrice": 11549.998354322472,
+    "coinAmountPurchased": 0.00865800989162704,
+    "coinTotal": 0.8797242585889228,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 43396.184568422956
+  },
+  {
+    "date": 1564963200000,
+    "coinPrice": 10951.593834840049,
+    "coinAmountPurchased": 0.009131091009043118,
+    "coinTotal": 0.8888553495979659,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 43846.61492415179
+  },
+  {
+    "date": 1564358400000,
+    "coinPrice": 9534.755426833233,
+    "coinAmountPurchased": 0.010487945995822243,
+    "coinTotal": 0.8993432955937881,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 44363.97799074313
+  },
+  {
+    "date": 1563753600000,
+    "coinPrice": 10607.463560702123,
+    "coinAmountPurchased": 0.009427324395482614,
+    "coinTotal": 0.9087706199892708,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 44829.02133297059
+  },
+  {
+    "date": 1563148800000,
+    "coinPrice": 10285.461109066944,
+    "coinAmountPurchased": 0.009722461534743152,
+    "coinTotal": 0.9184930815240139,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 45308.623584587316
+  },
+  {
+    "date": 1562544000000,
+    "coinPrice": 11436.430746923896,
+    "coinAmountPurchased": 0.008743986844575386,
+    "coinTotal": 0.9272370683685892,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 45739.95836166815
+  },
+  {
+    "date": 1561939200000,
+    "coinPrice": 10888.097181679726,
+    "coinAmountPurchased": 0.009184341242679174,
+    "coinTotal": 0.9364214096112684,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 46193.01551431048
+  },
+  {
+    "date": 1561334400000,
+    "coinPrice": 10846.12509964766,
+    "coinAmountPurchased": 0.009219882592286212,
+    "coinTotal": 0.9456412922035546,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 46647.82589695903
+  },
+  {
+    "date": 1560729600000,
+    "coinPrice": 8978.77258780693,
+    "coinAmountPurchased": 0.011137379750078407,
+    "coinTotal": 0.9567786719536331,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 47197.22507803683
+  },
+  {
+    "date": 1560124800000,
+    "coinPrice": 7668.029627860183,
+    "coinAmountPurchased": 0.013041159835464238,
+    "coinTotal": 0.9698198317890974,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 47840.536403921906
+  },
+  {
+    "date": 1559520000000,
+    "coinPrice": 8743.705469134235,
+    "coinAmountPurchased": 0.011436798775188111,
+    "coinTotal": 0.9812566305642855,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 48404.705716833734
+  },
+  {
+    "date": 1558915200000,
+    "coinPrice": 8631.080577844017,
+    "coinAmountPurchased": 0.011586034807356566,
+    "coinTotal": 0.992842665371642,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 48976.236739205095
+  },
+  {
+    "date": 1558310400000,
+    "coinPrice": 8168.730689783752,
+    "coinAmountPurchased": 0.012241803995945821,
+    "coinTotal": 1.0050844693675878,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 49580.1163986232
+  },
+  {
+    "date": 1557705600000,
+    "coinPrice": 6953.75138858638,
+    "coinAmountPurchased": 0.01438072695036756,
+    "coinTotal": 1.0194651963179553,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 50289.5076366996
+  },
+  {
+    "date": 1557100800000,
+    "coinPrice": 5749.323780460327,
+    "coinAmountPurchased": 0.017393349864876347,
+    "coinTotal": 1.0368585461828317,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 51147.50946355616
+  },
+  {
+    "date": 1556496000000,
+    "coinPrice": 5257.803249232503,
+    "coinAmountPurchased": 0.019019349956580688,
+    "coinTotal": 1.0558778961394124,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 52085.72074172541
+  },
+  {
+    "date": 1555891200000,
+    "coinPrice": 5311.164840299274,
+    "coinAmountPurchased": 0.018828261409104596,
+    "coinTotal": 1.074706157548517,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 53014.50575502333
+  },
+  {
+    "date": 1555286400000,
+    "coinPrice": 5149.314492798127,
+    "coinAmountPurchased": 0.019420060697372597,
+    "coinTotal": 1.0941262182458897,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 53972.48381476781
+  },
+  {
+    "date": 1554681600000,
+    "coinPrice": 5176.97788362072,
+    "coinAmountPurchased": 0.01931628881714695,
+    "coinTotal": 1.1134425070630367,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 54925.342879982665
+  },
+  {
+    "date": 1554076800000,
+    "coinPrice": 4103.521738549332,
+    "coinAmountPurchased": 0.024369311623374454,
+    "coinTotal": 1.1378118186864112,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 56127.46403861669
+  },
+  {
+    "date": 1553472000000,
+    "coinPrice": 3993.394900459549,
+    "coinAmountPurchased": 0.025041350152596297,
+    "coinTotal": 1.1628531688390076,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 57362.73638953224
+  },
+  {
+    "date": 1552867200000,
+    "coinPrice": 3980.9901047320204,
+    "coinAmountPurchased": 0.025119379191908712,
+    "coinTotal": 1.1879725480309162,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 58601.85785857615
+  },
+  {
+    "date": 1552262400000,
+    "coinPrice": 3923.559788806432,
+    "coinAmountPurchased": 0.0254870590440067,
+    "coinTotal": 1.2134596070749228,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 59859.11671847629
+  },
+  {
+    "date": 1551657600000,
+    "coinPrice": 3806.9542737979564,
+    "coinAmountPurchased": 0.026267717657726515,
+    "coinTotal": 1.2397273247326495,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 61154.88492372546
+  },
+  {
+    "date": 1551052800000,
+    "coinPrice": 3742.868946700387,
+    "coinAmountPurchased": 0.026717472993051848,
+    "coinTotal": 1.2664447977257014,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 62472.83924621746
+  },
+  {
+    "date": 1550448000000,
+    "coinPrice": 3665.075530800723,
+    "coinAmountPurchased": 0.027284567305534527,
+    "coinTotal": 1.293729365031236,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 63818.76793591819
+  },
+  {
+    "date": 1549843200000,
+    "coinPrice": 3675.6916291247258,
+    "coinAmountPurchased": 0.02720576427239967,
+    "coinTotal": 1.3209351293036358,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 65160.80932691472
+  },
+  {
+    "date": 1549238400000,
+    "coinPrice": 3454.025843825187,
+    "coinAmountPurchased": 0.028951723154814105,
+    "coinTotal": 1.34988685245845,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 66588.97765276657
+  },
+  {
+    "date": 1548633600000,
+    "coinPrice": 3553.121681129778,
+    "coinAmountPurchased": 0.02814426551476932,
+    "coinTotal": 1.3780311179732192,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 67977.31465597787
+  },
+  {
+    "date": 1548028800000,
+    "coinPrice": 3539.167531041029,
+    "coinAmountPurchased": 0.028255232091425036,
+    "coinTotal": 1.4062863500646443,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 69371.12556307948
+  },
+  {
+    "date": 1547424000000,
+    "coinPrice": 3495.832311307438,
+    "coinAmountPurchased": 0.028605491080491815,
+    "coinTotal": 1.4348918411451361,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 70782.21450200512
+  },
+  {
+    "date": 1546819200000,
+    "coinPrice": 4013.5200912973864,
+    "coinAmountPurchased": 0.024915784081119326,
+    "coinTotal": 1.4598076252262555,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 72011.2927661257
+  },
+  {
+    "date": 1546214400000,
+    "coinPrice": 3809.7282286410905,
+    "coinAmountPurchased": 0.026248591500100116,
+    "coinTotal": 1.4860562167263556,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 73306.11749134878
+  },
+  {
+    "date": 1545609600000,
+    "coinPrice": 3941.617740158326,
+    "coinAmountPurchased": 0.025370293770796564,
+    "coinTotal": 1.511426510497152,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 74557.61640169889
+  },
+  {
+    "date": 1545004800000,
+    "coinPrice": 3217.0468349697426,
+    "coinAmountPurchased": 0.031084409127335733,
+    "coinTotal": 1.5425109196244877,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 76090.98864023865
+  },
+  {
+    "date": 1544400000000,
+    "coinPrice": 3550.546433896889,
+    "coinAmountPurchased": 0.028164678835151967,
+    "coinTotal": 1.5706755984596397,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 77480.33261831774
+  },
+  {
+    "date": 1543795200000,
+    "coinPrice": 4124.593548643215,
+    "coinAmountPurchased": 0.02424481317265673,
+    "coinTotal": 1.5949204116322964,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 78676.31235514478
+  },
+  {
+    "date": 1543190400000,
+    "coinPrice": 4039.836551137432,
+    "coinAmountPurchased": 0.02475347671475585,
+    "coinTotal": 1.6196738883470523,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 79897.3841099998
+  },
+  {
+    "date": 1542585600000,
+    "coinPrice": 5638.861481452398,
+    "coinAmountPurchased": 0.017734076343056942,
+    "coinTotal": 1.6374079646901092,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 80772.1937365619
+  },
+  {
+    "date": 1541980800000,
+    "coinPrice": 6434.2845969255495,
+    "coinAmountPurchased": 0.01554174337389153,
+    "coinTotal": 1.6529497080640008,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 81538.85710566153
+  },
+  {
+    "date": 1541376000000,
+    "coinPrice": 6351.061941056285,
+    "coinAmountPurchased": 0.01574539831733532,
+    "coinTotal": 1.668695106381336,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 82315.56663118766
+  },
+  {
+    "date": 1540771200000,
+    "coinPrice": 6481.323141667608,
+    "coinAmountPurchased": 0.015428948351165,
+    "coinTotal": 1.684124054732501,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 83076.66590042661
+  },
+  {
+    "date": 1540166400000,
+    "coinPrice": 6529.670021370842,
+    "coinAmountPurchased": 0.015314709575324903,
+    "coinTotal": 1.699438764307826,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 83832.12985047002
+  },
+  {
+    "date": 1539561600000,
+    "coinPrice": 6328.554760034424,
+    "coinAmountPurchased": 0.015801396020385553,
+    "coinTotal": 1.7152401603282115,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 84611.60170366104
+  },
+  {
+    "date": 1538956800000,
+    "coinPrice": 6584.832153052514,
+    "coinAmountPurchased": 0.015186415944352242,
+    "coinTotal": 1.7304265762725637,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 85360.73701830047
+  },
+  {
+    "date": 1538352000000,
+    "coinPrice": 6626.037956098487,
+    "coinAmountPurchased": 0.015091975123378489,
+    "coinTotal": 1.7455185513959421,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 86105.21363306006
+  },
+  {
+    "date": 1537747200000,
+    "coinPrice": 6711.029451815934,
+    "coinAmountPurchased": 0.014900843561778893,
+    "coinTotal": 1.760419394957721,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 86840.26186109161
+  },
+  {
+    "date": 1537142400000,
+    "coinPrice": 6506.248493217292,
+    "coinAmountPurchased": 0.015369840254987055,
+    "coinTotal": 1.775789235212708,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 87598.44536914042
+  },
+  {
+    "date": 1536537600000,
+    "coinPrice": 6260.764806062476,
+    "coinAmountPurchased": 0.015972489479746495,
+    "coinTotal": 1.7917617246924544,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 88386.35714344124
+  },
+  {
+    "date": 1535932800000,
+    "coinPrice": 7305.272801003753,
+    "coinAmountPurchased": 0.013688742737473116,
+    "coinTotal": 1.8054504674299277,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 89061.61328256135
+  },
+  {
+    "date": 1535328000000,
+    "coinPrice": 6728.2880026290095,
+    "coinAmountPurchased": 0.01486262180824097,
+    "coinTotal": 1.8203130892381687,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 89794.77605812882
+  },
+  {
+    "date": 1534723200000,
+    "coinPrice": 6475.494019667379,
+    "coinAmountPurchased": 0.01544283720999199,
+    "coinTotal": 1.8357559264481607,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 90556.56045509414
+  },
+  {
+    "date": 1534118400000,
+    "coinPrice": 6318.407221774424,
+    "coinAmountPurchased": 0.015826773503198895,
+    "coinTotal": 1.8515826999513596,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 91337.28416182596
+  },
+  {
+    "date": 1533513600000,
+    "coinPrice": 7036.60933127318,
+    "coinAmountPurchased": 0.014211390073279276,
+    "coinTotal": 1.8657940900246388,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 92038.32212977184
+  },
+  {
+    "date": 1532908800000,
+    "coinPrice": 8197.593575814208,
+    "coinAmountPurchased": 0.012198701859901333,
+    "coinTotal": 1.87799279188454,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 92640.0755908581
+  },
+  {
+    "date": 1532304000000,
+    "coinPrice": 7395.8664054401,
+    "coinAmountPurchased": 0.013521066298120806,
+    "coinTotal": 1.891513858182661,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 93307.060368084
+  },
+  {
+    "date": 1531699200000,
+    "coinPrice": 6349.695836710773,
+    "coinAmountPurchased": 0.015748785858662694,
+    "coinTotal": 1.9072626440413236,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 94083.9369986629
+  },
+  {
+    "date": 1531094400000,
+    "coinPrice": 6700.63547905209,
+    "coinAmountPurchased": 0.014923957632470192,
+    "coinTotal": 1.9221866016737938,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 94820.12542769272
+  },
+  {
+    "date": 1530489600000,
+    "coinPrice": 6312.87724313135,
+    "coinAmountPurchased": 0.015840637501513877,
+    "coinTotal": 1.9380272391753077,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 95601.53303579916
+  },
+  {
+    "date": 1529884800000,
+    "coinPrice": 6159.70719379414,
+    "coinAmountPurchased": 0.016234537917768115,
+    "coinTotal": 1.954261777093076,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 96402.37147691772
+  },
+  {
+    "date": 1529280000000,
+    "coinPrice": 6418.85000188746,
+    "coinAmountPurchased": 0.015579114634334038,
+    "coinTotal": 1.96984089172741,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 97170.87834424977
+  },
+  {
+    "date": 1528675200000,
+    "coinPrice": 6767.49948454925,
+    "coinAmountPurchased": 0.014776506481944786,
+    "coinTotal": 1.9846173982093547,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 97899.79311078755
+  },
+  {
+    "date": 1528070400000,
+    "coinPrice": 7639.87944568278,
+    "coinAmountPurchased": 0.013089211774998492,
+    "coinTotal": 1.9977066099843532,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 98545.47480536094
+  },
+  {
+    "date": 1527465600000,
+    "coinPrice": 7326.64394017867,
+    "coinAmountPurchased": 0.01364881394762598,
+    "coinTotal": 2.0113554239319793,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 99218.76128510552
+  },
+  {
+    "date": 1526860800000,
+    "coinPrice": 8443.26024591542,
+    "coinAmountPurchased": 0.011843766162292203,
+    "coinTotal": 2.0231991900942714,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 99803.00601559468
+  },
+  {
+    "date": 1526256000000,
+    "coinPrice": 8683.9862031429,
+    "coinAmountPurchased": 0.011515448972478571,
+    "coinTotal": 2.03471463906675,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 100371.05508792502
+  },
+  {
+    "date": 1525651200000,
+    "coinPrice": 9583.87174550137,
+    "coinAmountPurchased": 0.010434196393220681,
+    "coinTotal": 2.0451488354599707,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 100885.76672407983
+  },
+  {
+    "date": 1525046400000,
+    "coinPrice": 9325.62885104679,
+    "coinAmountPurchased": 0.010723137452416964,
+    "coinTotal": 2.0558719729123878,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 101414.7316213126
+  },
+  {
+    "date": 1524441600000,
+    "coinPrice": 8769.01199947348,
+    "coinAmountPurchased": 0.011403793267246564,
+    "coinTotal": 2.0672757661796344,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 101977.27279552026
+  },
+  {
+    "date": 1523836800000,
+    "coinPrice": 8258.06708369755,
+    "coinAmountPurchased": 0.012109371234996677,
+    "coinTotal": 2.079385137414631,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 102574.61963913734
+  },
+  {
+    "date": 1523232000000,
+    "coinPrice": 6984.8089659738,
+    "coinAmountPurchased": 0.014316783821453924,
+    "coinTotal": 2.093701921236085,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 103280.85660722843
+  },
+  {
+    "date": 1522627200000,
+    "coinPrice": 6836.57232729678,
+    "coinAmountPurchased": 0.014627213055396809,
+    "coinTotal": 2.108329134291482,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 104002.40683308194
+  },
+  {
+    "date": 1522022400000,
+    "coinPrice": 8478.63819558905,
+    "coinAmountPurchased": 0.011794346886039348,
+    "coinTotal": 2.1201234811775214,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 104584.21374511543
+  },
+  {
+    "date": 1521417600000,
+    "coinPrice": 8217.84219996114,
+    "coinAmountPurchased": 0.012168644464902584,
+    "coinTotal": 2.132292125642424,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 105184.48449585438
+  },
+  {
+    "date": 1520812800000,
+    "coinPrice": 9512.45611286134,
+    "coinAmountPurchased": 0.0105125320751593,
+    "coinTotal": 2.1428046577175834,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 105703.0603766046
+  },
+  {
+    "date": 1520208000000,
+    "coinPrice": 11286.6762891691,
+    "coinAmountPurchased": 0.008860004259709462,
+    "coinTotal": 2.151664661977293,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 106140.11821191777
+  },
+  {
+    "date": 1519603200000,
+    "coinPrice": 9699.51718151529,
+    "coinAmountPurchased": 0.010309791521435057,
+    "coinTotal": 2.1619744534987277,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 106648.69304244909
+  },
+  {
+    "date": 1518998400000,
+    "coinPrice": 10523.429305801,
+    "coinAmountPurchased": 0.009502605766057208,
+    "coinTotal": 2.171477059264785,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 107117.44996222101
+  },
+  {
+    "date": 1518393600000,
+    "coinPrice": 8168.63777979963,
+    "coinAmountPurchased": 0.012241943234071632,
+    "coinTotal": 2.1837190024988566,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 107721.33649015882
+  },
+  {
+    "date": 1517788800000,
+    "coinPrice": 8315.51749143615,
+    "coinAmountPurchased": 0.012025709777291236,
+    "coinTotal": 2.1957447122761478,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 108314.55637237361
+  },
+  {
+    "date": 1517184000000,
+    "coinPrice": 11157.6638878978,
+    "coinAmountPurchased": 0.008962449577681343,
+    "coinTotal": 2.204707161853829,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 108756.66776382494
+  },
+  {
+    "date": 1516579200000,
+    "coinPrice": 10991.5950130802,
+    "coinAmountPurchased": 0.009097860672722946,
+    "coinTotal": 2.213805022526552,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 109205.45889022239
+  },
+  {
+    "date": 1515974400000,
+    "coinPrice": 14411.9977069182,
+    "coinAmountPurchased": 0.006938663329928018,
+    "coinTotal": 2.22074368585648,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 109547.73831651296
+  },
+  {
+    "date": 1515369600000,
+    "coinPrice": 15900.3650216006,
+    "coinAmountPurchased": 0.006289163793670792,
+    "coinTotal": 2.227032849650151,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 109857.9783833368
+  },
+  {
+    "date": 1514764800000,
+    "coinPrice": 14093.6068305274,
+    "coinAmountPurchased": 0.007095415758540631,
+    "coinTotal": 2.2341282654086916,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 110207.99029768507
+  },
+  {
+    "date": 1514160000000,
+    "coinPrice": 14302.7537081839,
+    "coinAmountPurchased": 0.006991660629853463,
+    "coinTotal": 2.2411199260385453,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 110552.88404384546
+  },
+  {
+    "date": 1513555200000,
+    "coinPrice": 19188.0539569348,
+    "coinAmountPurchased": 0.005211575922417018,
+    "coinTotal": 2.246331501960962,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 110809.96745198556
+  },
+  {
+    "date": 1512950400000,
+    "coinPrice": 17106.5051488871,
+    "coinAmountPurchased": 0.0058457293953175305,
+    "coinTotal": 2.2521772313562796,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 111098.33320898213
+  },
+  {
+    "date": 1512345600000,
+    "coinPrice": 11634.9849554034,
+    "coinAmountPurchased": 0.008594768311544659,
+    "coinTotal": 2.260771999667824,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 111522.3071398237
+  },
+  {
+    "date": 1511740800000,
+    "coinPrice": 9831.40292992241,
+    "coinAmountPurchased": 0.010171488312786425,
+    "coinTotal": 2.2709434879806105,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 112024.05956946028
+  },
+  {
+    "date": 1511136000000,
+    "coinPrice": 8220.50996617654,
+    "coinAmountPurchased": 0.01216469542783259,
+    "coinTotal": 2.283108183408443,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 112624.13551695277
+  },
+  {
+    "date": 1510531200000,
+    "coinPrice": 6423.09140246102,
+    "coinAmountPurchased": 0.015568827179025477,
+    "coinTotal": 2.2986770105874683,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 113392.13491128408
+  },
+  {
+    "date": 1509926400000,
+    "coinPrice": 7103.04608116249,
+    "coinAmountPurchased": 0.014078467020677688,
+    "coinTotal": 2.312755477608146,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 114086.61587768343
+  },
+  {
+    "date": 1509321600000,
+    "coinPrice": 6104.38870915078,
+    "coinAmountPurchased": 0.01638165666778314,
+    "coinTotal": 2.3291371342759293,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 114894.7115842085
+  },
+  {
+    "date": 1508716800000,
+    "coinPrice": 5959.98304059248,
+    "coinAmountPurchased": 0.016778571233997844,
+    "coinTotal": 2.345915705509927,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 115722.38680966257
+  },
+  {
+    "date": 1508112000000,
+    "coinPrice": 5728.93275055115,
+    "coinAmountPurchased": 0.017455258135187487,
+    "coinTotal": 2.3633709636451146,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 116583.44252834773
+  },
+  {
+    "date": 1507507200000,
+    "coinPrice": 4758.72164979337,
+    "coinAmountPurchased": 0.021014046914120756,
+    "coinTotal": 2.3843850105592352,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 117620.05081726478
+  },
+  {
+    "date": 1506902400000,
+    "coinPrice": 4383.32549736353,
+    "coinAmountPurchased": 0.022813728996431522,
+    "coinTotal": 2.4071987395556667,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 118745.43616904663
+  },
+  {
+    "date": 1506297600000,
+    "coinPrice": 3866.70515274174,
+    "coinAmountPurchased": 0.02586181155527042,
+    "coinTotal": 2.433060551110937,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 120021.18130915049
+  },
+  {
+    "date": 1505692800000,
+    "coinPrice": 4012.28582499344,
+    "coinAmountPurchased": 0.024923448717705323,
+    "coinTotal": 2.4579839998286426,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 121250.63766445212
+  },
+  {
+    "date": 1505088000000,
+    "coinPrice": 4164.97621199409,
+    "coinAmountPurchased": 0.024009740970914795,
+    "coinTotal": 2.4819937407995574,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 122435.02145339652
+  },
+  {
+    "date": 1504483200000,
+    "coinPrice": 4317.18518771612,
+    "coinAmountPurchased": 0.02316324078117716,
+    "coinTotal": 2.5051569815807344,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 123577.64797793402
+  },
+  {
+    "date": 1503878400000,
+    "coinPrice": 4216.24277330547,
+    "coinAmountPurchased": 0.02371779932434999,
+    "coinTotal": 2.528874780905084,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 124747.63048891675
+  },
+  {
+    "date": 1503273600000,
+    "coinPrice": 3935.22993283277,
+    "coinAmountPurchased": 0.025411475747750052,
+    "coinTotal": 2.5542862566528344,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 126001.16087748896
+  },
+  {
+    "date": 1502668800000,
+    "coinPrice": 4175.69529134641,
+    "coinAmountPurchased": 0.023948107565999154,
+    "coinTotal": 2.5782343642188335,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 127182.50433352313
+  },
+  {
+    "date": 1502064000000,
+    "coinPrice": 3356.70973808691,
+    "coinAmountPurchased": 0.0297910775141949,
+    "coinTotal": 2.6080254417330284,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 128652.07742495053
+  },
+  {
+    "date": 1501459200000,
+    "coinPrice": 2871.3680152452,
+    "coinAmountPurchased": 0.03482660511263671,
+    "coinTotal": 2.642852046845665,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 130370.04958338999
+  },
+  {
+    "date": 1500854400000,
+    "coinPrice": 2751.3470702262,
+    "coinAmountPurchased": 0.03634583258584624,
+    "coinTotal": 2.6791978794315114,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 132162.96417428504
+  },
+  {
+    "date": 1500249600000,
+    "coinPrice": 2181.28608069932,
+    "coinAmountPurchased": 0.04584451387868391,
+    "coinTotal": 2.7250423933101953,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 134424.44209342313
+  },
+  {
+    "date": 1499644800000,
+    "coinPrice": 2363.51568155487,
+    "coinAmountPurchased": 0.04230985255583906,
+    "coinTotal": 2.7673522458660345,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 136511.557632923
+  },
+  {
+    "date": 1499040000000,
+    "coinPrice": 2576.7146569746,
+    "coinAmountPurchased": 0.03880910900604457,
+    "coinTotal": 2.806161354872079,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 138425.98393289087
+  },
+  {
+    "date": 1498435200000,
+    "coinPrice": 2488.19416337737,
+    "coinAmountPurchased": 0.04018978963613684,
+    "coinTotal": 2.846351144508216,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 140408.518246101
+  },
+  {
+    "date": 1497830400000,
+    "coinPrice": 2620.13645139993,
+    "coinAmountPurchased": 0.038165951222338186,
+    "coinTotal": 2.884517095730554,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 142291.2180208357
+  },
+  {
+    "date": 1497225600000,
+    "coinPrice": 2701.255,
+    "coinAmountPurchased": 0.03701982967176368,
+    "coinTotal": 2.9215369254023176,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 144117.38041824906
+  },
+  {
+    "date": 1496620800000,
+    "coinPrice": 2721.5525,
+    "coinAmountPurchased": 0.036743733585885265,
+    "coinTotal": 2.958280658988203,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 145929.92318816617
+  },
+  {
+    "date": 1496016000000,
+    "coinPrice": 2286.2663,
+    "coinAmountPurchased": 0.043739436652676905,
+    "coinTotal": 3.00202009564088,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 148087.55911484052
+  },
+  {
+    "date": 1495411200000,
+    "coinPrice": 2109.3963,
+    "coinAmountPurchased": 0.04740692870277624,
+    "coinTotal": 3.049427024343656,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 150426.1098683546
+  },
+  {
+    "date": 1494806400000,
+    "coinPrice": 1696.13,
+    "coinAmountPurchased": 0.05895774498416984,
+    "coinTotal": 3.108384769327826,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 153334.4543388992
+  },
+  {
+    "date": 1494201600000,
+    "coinPrice": 1633.38,
+    "coinAmountPurchased": 0.061222740574759085,
+    "coinTotal": 3.169607509902585,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 156354.52946338023
+  },
+  {
+    "date": 1493596800000,
+    "coinPrice": 1408.445,
+    "coinAmountPurchased": 0.07100028755116458,
+    "coinTotal": 3.2406077974537495,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 159856.9241659244
+  },
+  {
+    "date": 1492992000000,
+    "coinPrice": 1249.9563,
+    "coinAmountPurchased": 0.08000279689777955,
+    "coinTotal": 3.320610594351529,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 163803.40638040248
+  },
+  {
+    "date": 1492387200000,
+    "coinPrice": 1205.143,
+    "coinAmountPurchased": 0.08297770472051864,
+    "coinTotal": 3.4035882990720476,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 167896.63872446856
+  },
+  {
+    "date": 1491782400000,
+    "coinPrice": 1210.515,
+    "coinAmountPurchased": 0.0826094678711127,
+    "coinTotal": 3.4861977669431603,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 171971.70620138937
+  },
+  {
+    "date": 1491177600000,
+    "coinPrice": 1139.3082754455547,
+    "coinAmountPurchased": 0.08777255651978173,
+    "coinTotal": 3.573970323462942,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 176301.46524302862
+  },
+  {
+    "date": 1490572800000,
+    "coinPrice": 1042.6050726198062,
+    "coinAmountPurchased": 0.09591359434759412,
+    "coinTotal": 3.669883917810536,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 181032.81600696614
+  },
+  {
+    "date": 1489968000000,
+    "coinPrice": 1036.3320123738727,
+    "coinAmountPurchased": 0.09649417252964629,
+    "coinTotal": 3.7663780903401824,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 185792.8062880009
+  },
+  {
+    "date": 1489363200000,
+    "coinPrice": 1243.2649223901926,
+    "coinAmountPurchased": 0.08043338004562112,
+    "coinTotal": 3.8468114703858034,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 189760.52886907491
+  },
+  {
+    "date": 1488758400000,
+    "coinPrice": 1280.9859999999996,
+    "coinAmountPurchased": 0.07806486565817271,
+    "coinTotal": 3.924876336043976,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 193611.414286109
+  },
+  {
+    "date": 1488153600000,
+    "coinPrice": 1193.1295150369579,
+    "coinAmountPurchased": 0.08381319776244278,
+    "coinTotal": 4.008689533806419,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 197745.86091965158
+  },
+  {
+    "date": 1487548800000,
+    "coinPrice": 1082.0168234958396,
+    "coinAmountPurchased": 0.09242000478043814,
+    "coinTotal": 4.101109538586857,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 202304.87534503476
+  },
+  {
+    "date": 1486944000000,
+    "coinPrice": 996.1039358698114,
+    "coinAmountPurchased": 0.10039113028167955,
+    "coinTotal": 4.201500668868537,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 207257.09983606372
+  },
+  {
+    "date": 1486339200000,
+    "coinPrice": 1024.5110886063283,
+    "coinAmountPurchased": 0.09760753310736037,
+    "coinTotal": 4.299108201975897,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 212072.01141846075
+  },
+  {
+    "date": 1485734400000,
+    "coinPrice": 920.9911458822621,
+    "coinAmountPurchased": 0.10857867683864121,
+    "coinTotal": 4.4076868788145385,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 217428.1218749835
+  },
+  {
+    "date": 1485129600000,
+    "coinPrice": 918.9075000000001,
+    "coinAmountPurchased": 0.10882488172095667,
+    "coinTotal": 4.516511760535495,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 222796.37744676284
+  },
+  {
+    "date": 1484524800000,
+    "coinPrice": 828.3099999999998,
+    "coinAmountPurchased": 0.12072774685806041,
+    "coinTotal": 4.637239507393556,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 228751.79306027087
+  },
+  {
+    "date": 1483920000000,
+    "coinPrice": 901.8788880390637,
+    "coinAmountPurchased": 0.11087963287113628,
+    "coinTotal": 4.748119140264692,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 234221.40807426727
+  },
+  {
+    "date": 1483315200000,
+    "coinPrice": 1019.1988000000001,
+    "coinAmountPurchased": 0.0981162850662697,
+    "coinTotal": 4.846235425330962,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 239061.4160362319
+  },
+  {
+    "date": 1482710400000,
+    "coinPrice": 902.6063,
+    "coinAmountPurchased": 0.11079027478536323,
+    "coinTotal": 4.957025700116325,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 244526.62307813356
+  },
+  {
+    "date": 1482105600000,
+    "coinPrice": 790.1162999999996,
+    "coinAmountPurchased": 0.12656364638977838,
+    "coinTotal": 5.083589346506103,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 250769.91954831753
+  },
+  {
+    "date": 1481500800000,
+    "coinPrice": 778.4323012225746,
+    "coinAmountPurchased": 0.12846332281297168,
+    "coinTotal": 5.212052669319075,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 257106.92573251284
+  },
+  {
+    "date": 1480896000000,
+    "coinPrice": 752.2399999999997,
+    "coinAmountPurchased": 0.13293629692651288,
+    "coinTotal": 5.344988966245587,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 263664.58061237144
+  },
+  {
+    "date": 1480291200000,
+    "coinPrice": 731.8424613583487,
+    "coinAmountPurchased": 0.13664142937865792,
+    "coinTotal": 5.481630395624245,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 270405.00709386985
+  },
+  {
+    "date": 1479686400000,
+    "coinPrice": 736.5049999999998,
+    "coinAmountPurchased": 0.1357764034188499,
+    "coinTotal": 5.617406799043096,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 277102.76244763506
+  },
+  {
+    "date": 1479081600000,
+    "coinPrice": 705.55,
+    "coinAmountPurchased": 0.14173339947558644,
+    "coinTotal": 5.759140198518682,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 284094.3722652594
+  },
+  {
+    "date": 1478476800000,
+    "coinPrice": 706.0925,
+    "coinAmountPurchased": 0.14162450387165987,
+    "coinTotal": 5.900764702390342,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 291080.61033863475
+  },
+  {
+    "date": 1477872000000,
+    "coinPrice": 698.5762999999998,
+    "coinAmountPurchased": 0.14314828602115479,
+    "coinTotal": 6.043912988411496,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 298142.01552347257
+  },
+  {
+    "date": 1477267200000,
+    "coinPrice": 648.7663,
+    "coinAmountPurchased": 0.15413870911605612,
+    "coinTotal": 6.198051697527553,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 305745.57062000706
+  },
+  {
+    "date": 1476662400000,
+    "coinPrice": 637.4825000000001,
+    "coinAmountPurchased": 0.1568670512523873,
+    "coinTotal": 6.35491874877994,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 313483.7129326585
+  },
+  {
+    "date": 1476057600000,
+    "coinPrice": 614.3138,
+    "coinAmountPurchased": 0.1627832550725704,
+    "coinTotal": 6.51770200385251,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 321513.6974565693
+  },
+  {
+    "date": 1475452800000,
+    "coinPrice": 611.9609026561799,
+    "coinAmountPurchased": 0.16340913212912125,
+    "coinTotal": 6.681111135981632,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 329574.5560594862
+  },
+  {
+    "date": 1474848000000,
+    "coinPrice": 606.0970645363005,
+    "coinAmountPurchased": 0.1649900747770587,
+    "coinTotal": 6.8461012107586905,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 337713.4014614166
+  },
+  {
+    "date": 1474243200000,
+    "coinPrice": 608.6176342973245,
+    "coinAmountPurchased": 0.1643067738506367,
+    "coinTotal": 7.010407984609327,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 345818.5401048608
+  },
+  {
+    "date": 1473638400000,
+    "coinPrice": 605.8312052420321,
+    "coinAmountPurchased": 0.16506247802149707,
+    "coinTotal": 7.175470462630824,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 353960.9571083793
+  },
+  {
+    "date": 1473033600000,
+    "coinPrice": 606.6438,
+    "coinAmountPurchased": 0.1648413780871081,
+    "coinTotal": 7.340311840717932,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 362092.467406226
+  },
+  {
+    "date": 1472428800000,
+    "coinPrice": 572.5102283617088,
+    "coinAmountPurchased": 0.1746693684166295,
+    "coinTotal": 7.514981209134562,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 370708.78561758937
+  },
+  {
+    "date": 1471824000000,
+    "coinPrice": 585.2175000000001,
+    "coinAmountPurchased": 0.17087663988175333,
+    "coinTotal": 7.685857849016315,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 379138.01117360033
+  },
+  {
+    "date": 1471219200000,
+    "coinPrice": 567.7342836594349,
+    "coinAmountPurchased": 0.1761387375717946,
+    "coinTotal": 7.86199658658811,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 387826.812341338
+  },
+  {
+    "date": 1470614400000,
+    "coinPrice": 590.7125,
+    "coinAmountPurchased": 0.16928708974331846,
+    "coinTotal": 8.031283676331428,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 396177.62649682787
+  },
+  {
+    "date": 1470009600000,
+    "coinPrice": 605.7469999999995,
+    "coinAmountPurchased": 0.16508542345236557,
+    "coinTotal": 8.196369099783794,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 404321.17538245977
+  },
+  {
+    "date": 1469404800000,
+    "coinPrice": 654.5186383481073,
+    "coinAmountPurchased": 0.1527840372160873,
+    "coinTotal": 8.349153136999881,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 411857.9054582826
+  },
+  {
+    "date": 1468800000000,
+    "coinPrice": 674.7874378266207,
+    "coinAmountPurchased": 0.1481948157216494,
+    "coinTotal": 8.49734795272153,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 419168.252436159
+  },
+  {
+    "date": 1468195200000,
+    "coinPrice": 649.07,
+    "coinAmountPurchased": 0.1540665875791517,
+    "coinTotal": 8.651414540300681,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 426768.2498275418
+  },
+  {
+    "date": 1467590400000,
+    "coinPrice": 678.7005716794641,
+    "coinAmountPurchased": 0.14734037979745193,
+    "coinTotal": 8.798754920098133,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 434036.4480767611
+  },
+  {
+    "date": 1466985600000,
+    "coinPrice": 648.2999999999998,
+    "coinAmountPurchased": 0.15424957581366655,
+    "coinTotal": 8.9530044959118,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 441645.4721502222
+  },
+  {
+    "date": 1466380800000,
+    "coinPrice": 734.1617358035669,
+    "coinAmountPurchased": 0.13620976839734958,
+    "coinTotal": 9.08921426430915,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 448364.605096351
+  },
+  {
+    "date": 1465776000000,
+    "coinPrice": 704.2918521711082,
+    "coinAmountPurchased": 0.14198659219431795,
+    "coinTotal": 9.231200856503468,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 455368.7047343323
+  },
+  {
+    "date": 1465171200000,
+    "coinPrice": 585.563,
+    "coinAmountPurchased": 0.17077581746114423,
+    "coinTotal": 9.401976673964613,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 463792.95679060096
+  },
+  {
+    "date": 1464566400000,
+    "coinPrice": 534.2240000000002,
+    "coinAmountPurchased": 0.18718739704693158,
+    "coinTotal": 9.589164071011545,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 473026.78063008556
+  },
+  {
+    "date": 1463961600000,
+    "coinPrice": 443.175,
+    "coinAmountPurchased": 0.2256444970948271,
+    "coinTotal": 9.814808568106372,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 484157.6664129587
+  },
+  {
+    "date": 1463356800000,
+    "coinPrice": 454.893,
+    "coinAmountPurchased": 0.2198319165166314,
+    "coinTotal": 10.034640484623003,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 495001.82164688146
+  },
+  {
+    "date": 1462752000000,
+    "coinPrice": 461.74700000000007,
+    "coinAmountPurchased": 0.21656881365769562,
+    "coinTotal": 10.251209298280699,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 505685.0102909329
+  },
+  {
+    "date": 1462147200000,
+    "coinPrice": 444.488,
+    "coinAmountPurchased": 0.22497795216068825,
+    "coinTotal": 10.476187250441388,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 516783.0158767414
+  },
+  {
+    "date": 1461542400000,
+    "coinPrice": 460.4659999999999,
+    "coinAmountPurchased": 0.21717130037831245,
+    "coinTotal": 10.6933585508197,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 527495.9247708288
+  },
+  {
+    "date": 1460937600000,
+    "coinPrice": 428.5059999999998,
+    "coinAmountPurchased": 0.23336896099471197,
+    "coinTotal": 10.926727511814413,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 539007.8529744591
+  },
+  {
+    "date": 1460332800000,
+    "coinPrice": 422.5840000000001,
+    "coinAmountPurchased": 0.2366393427105616,
+    "coinTotal": 11.163366854524975,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 550681.1068288995
+  },
+  {
+    "date": 1459728000000,
+    "coinPrice": 419.437,
+    "coinAmountPurchased": 0.23841482749495155,
+    "coinTotal": 11.401781682019926,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 562441.9441103621
+  },
+  {
+    "date": 1459123200000,
+    "coinPrice": 422.756,
+    "coinAmountPurchased": 0.23654306503041944,
+    "coinTotal": 11.638324747050346,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 574110.44865394
+  },
+  {
+    "date": 1458518400000,
+    "coinPrice": 411.091,
+    "coinAmountPurchased": 0.24325514302186133,
+    "coinTotal": 11.881579890072206,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 586110.0553269754
+  },
+  {
+    "date": 1457913600000,
+    "coinPrice": 414.585,
+    "coinAmountPurchased": 0.24120506048216891,
+    "coinTotal": 12.122784950554376,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 598008.5328570955
+  },
+  {
+    "date": 1457308800000,
+    "coinPrice": 413.74,
+    "coinAmountPurchased": 0.24169768453618215,
+    "coinTotal": 12.364482635090559,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 609931.3111884748
+  },
+  {
+    "date": 1456704000000,
+    "coinPrice": 436.919,
+    "coinAmountPurchased": 0.2288753750695209,
+    "coinTotal": 12.59335801016008,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 621221.5739301381
+  },
+  {
+    "date": 1456099200000,
+    "coinPrice": 437.8029999999999,
+    "coinAmountPurchased": 0.22841323609020503,
+    "coinTotal": 12.821771246250284,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 632489.0396780311
+  },
+  {
+    "date": 1455494400000,
+    "coinPrice": 399.379,
+    "coinAmountPurchased": 0.2503887285009978,
+    "coinTotal": 13.072159974751282,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 644840.5411511301
+  },
+  {
+    "date": 1454889600000,
+    "coinPrice": 371.1359999999999,
+    "coinAmountPurchased": 0.26944300741507166,
+    "coinTotal": 13.341602982166354,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 658131.9769235285
+  },
+  {
+    "date": 1454284800000,
+    "coinPrice": 371.041,
+    "coinAmountPurchased": 0.2695119946313211,
+    "coinTotal": 13.611114976797674,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 671426.815787225
+  },
+  {
+    "date": 1453680000000,
+    "coinPrice": 392.3260000000001,
+    "coinAmountPurchased": 0.254890065914571,
+    "coinTotal": 13.866005042712246,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 684000.3650978106
+  },
+  {
+    "date": 1453075200000,
+    "coinPrice": 385.1320000000001,
+    "coinAmountPurchased": 0.2596512364591879,
+    "coinTotal": 14.125656279171434,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 696808.7796331514
+  },
+  {
+    "date": 1452470400000,
+    "coinPrice": 448.3490000000001,
+    "coinAmountPurchased": 0.2230405331560904,
+    "coinTotal": 14.348696812327525,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 707811.2136897119
+  },
+  {
+    "date": 1451865600000,
+    "coinPrice": 433.5339999999999,
+    "coinAmountPurchased": 0.23066241632720855,
+    "coinTotal": 14.579359228654733,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 719189.6299311711
+  },
+  {
+    "date": 1451260800000,
+    "coinPrice": 420.708,
+    "coinAmountPurchased": 0.23769455299162362,
+    "coinTotal": 14.817053781646356,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 730914.9365733668
+  },
+  {
+    "date": 1450656000000,
+    "coinPrice": 437.8090000000001,
+    "coinAmountPurchased": 0.22841010577671994,
+    "coinTotal": 15.045463887423075,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 742182.2479050772
+  },
+  {
+    "date": 1450051200000,
+    "coinPrice": 443.277,
+    "coinAmountPurchased": 0.22559257529716184,
+    "coinTotal": 15.271056462720237,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 753310.5724218574
+  },
+  {
+    "date": 1449446400000,
+    "coinPrice": 394.355,
+    "coinAmountPurchased": 0.253578628393199,
+    "coinTotal": 15.524635091113437,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 765819.4294334963
+  },
+  {
+    "date": 1448841600000,
+    "coinPrice": 378.265,
+    "coinAmountPurchased": 0.26436492934847267,
+    "coinTotal": 15.78900002046191,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 778860.367153943
+  },
+  {
+    "date": 1448236800000,
+    "coinPrice": 322.8290000000001,
+    "coinAmountPurchased": 0.3097615146099017,
+    "coinTotal": 16.098761535071812,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 794140.6867870146
+  },
+  {
+    "date": 1447632000000,
+    "coinPrice": 331.353,
+    "coinAmountPurchased": 0.3017929519274007,
+    "coinTotal": 16.400554486999212,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 809027.9227765026
+  },
+  {
+    "date": 1447027200000,
+    "coinPrice": 380.6439999999999,
+    "coinAmountPurchased": 0.2627126659030486,
+    "coinTotal": 16.66326715290226,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 821987.3554927015
+  },
+  {
+    "date": 1446422400000,
+    "coinPrice": 350.7678,
+    "coinAmountPurchased": 0.28508888216079126,
+    "coinTotal": 16.948356035063053,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 836050.5913621994
+  },
+  {
+    "date": 1445817600000,
+    "coinPrice": 285.5159,
+    "coinAmountPurchased": 0.35024319135992077,
+    "coinTotal": 17.298599226422976,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 853327.8438963834
+  },
+  {
+    "date": 1445212800000,
+    "coinPrice": 264.2094,
+    "coinAmountPurchased": 0.3784876692502235,
+    "coinTotal": 17.6770868956732,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 871998.3768404226
+  },
+  {
+    "date": 1444608000000,
+    "coinPrice": 245.5661,
+    "coinAmountPurchased": 0.4072223323984866,
+    "coinTotal": 18.084309228071685,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 892086.3706914665
+  },
+  {
+    "date": 1444003200000,
+    "coinPrice": 240.3238,
+    "coinAmountPurchased": 0.4161052713047979,
+    "coinTotal": 18.500414499376483,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 912612.5537279565
+  },
+  {
+    "date": 1443398400000,
+    "coinPrice": 239.2765,
+    "coinAmountPurchased": 0.4179265410518793,
+    "coinTotal": 18.918341040428363,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 933228.5787317693
+  },
+  {
+    "date": 1442793600000,
+    "coinPrice": 226.4528,
+    "coinAmountPurchased": 0.4415931266913017,
+    "coinTotal": 19.359934167119665,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 955012.0599111799
+  },
+  {
+    "date": 1442188800000,
+    "coinPrice": 230.21,
+    "coinAmountPurchased": 0.43438599539550843,
+    "coinTotal": 19.794320162515174,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 976440.0183266477
+  },
+  {
+    "date": 1441584000000,
+    "coinPrice": 240.503,
+    "coinAmountPurchased": 0.41579522916554057,
+    "coinTotal": 20.210115391680713,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 996950.9072004863
+  },
+  {
+    "date": 1440979200000,
+    "coinPrice": 230.0781,
+    "coinAmountPurchased": 0.43463502176000235,
+    "coinTotal": 20.644750413440715,
+    "usdTotalInvested": "100",
+    "usdTotalValue": 1018391.14991296
+  }
+]
