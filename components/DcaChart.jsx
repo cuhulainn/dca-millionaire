@@ -63,11 +63,7 @@ const DcaChart = ({ dcaChartData }) => {
     ],
   };
 
-  return (
-    <Grid item>
-      <Line type="line" data={chartData} options={chartOptions} />;
-    </Grid>
-  );
+  return <Line type="line" data={chartData} options={chartOptions} />;
 };
 
 export default DcaChart;

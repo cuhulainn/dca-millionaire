@@ -10,14 +10,13 @@ import {
   Button,
   FormControl,
   InputAdornment,
-  Container,
 } from "@mui/material";
-import DateAdapter from "@mui/lab/AdapterDateFns";
-import LocalizationProvider from "@mui/lab/LocalizationProvider";
-import DatePicker from "@mui/lab/DatePicker";
+// import DateAdapter from "@mui/lab/AdapterDateFns";
+// import LocalizationProvider from "@mui/lab/LocalizationProvider";
+// import DatePicker from "@mui/lab/DatePicker";
 import { formatISO9075 } from "date-fns";
 
-const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
+const DcaForm = ({ setResults, setIsChartDataLoaded }) => {
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [coins, setCoins] = useState([]);
@@ -29,17 +28,15 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
     targetAmount: "1000000",
     dcaAmount: "100",
     coin: "bitcoin",
-    startDate: null,
-    endDate: Date.now(),
   });
 
   const handleChange = (e) => {
     setInputs((values) => ({ ...values, [e.target.name]: e.target.value }));
   };
 
-  const handleDateChange = (date) => {
-    setInputs((values) => ({ ...values, startDate: date }));
-  };
+  // const handleDateChange = (date) => {
+  //   setInputs((values) => ({ ...values, startDate: date }));
+  // };
 
   const setDaysBetweenBuys = (frequency) => {
     let days = 0;
@@ -92,10 +89,24 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
         usdTotalValue: usdAmount,
       });
       if (usdAmount >= targetAmount) {
-        return { currentDate, usdAmount, chartData };
+        return {
+          currentDate,
+          usdAmount,
+          dcaAmount,
+          frequency,
+          targetAmount,
+          chartData,
+        };
       }
     }
-    return { currentDate, usdAmount, chartData };
+    return {
+      currentDate,
+      usdAmount,
+      dcaAmount,
+      frequency,
+      targetAmount,
+      chartData,
+    };
   };
 
   const handleSubmit = (e) => {
@@ -106,12 +117,15 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
       .then(
         (result) => {
           const retObj = calculateStartDate(inputs, result);
-          setInputs((values) => ({
-            ...values,
+          setResults({
             startDate: retObj.currentDate,
-            targetAmount: retObj.usdAmount,
-          }));
-          setDcaChartData(retObj.chartData);
+            totalUsdAmount: retObj.usdAmount,
+            dcaChartData: retObj.chartData,
+            dcaAmount: retObj.dcaAmount,
+            frequency: retObj.frequency,
+            targetAmount: retObj.targetAmount,
+            coin: inputs.coin,
+          });
           setIsLoaded(true);
           setIsChartDataLoaded(true);
         },
@@ -141,7 +155,13 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
   return (
     <>
       {isLoaded ? (
-        <>
+        <Grid
+          container
+          spacing={2}
+          direction="column"
+          alignContent="center"
+          mt={3}
+        >
           <Grid item>
             <TextField
               fullWidth
@@ -219,7 +239,7 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
               Calculate
             </Button>
           </Grid>
-          <Grid item>
+          {/* <Grid item>
             <FormControl fullWidth>
               <LocalizationProvider dateAdapter={DateAdapter}>
                 <DatePicker
@@ -231,8 +251,8 @@ const DcaForm = ({ setDcaChartData, setIsChartDataLoaded }) => {
                 />
               </LocalizationProvider>
             </FormControl>
-          </Grid>
-        </>
+          </Grid> */}
+        </Grid>
       ) : (
         <CircularProgress color="secondary" />
       )}
