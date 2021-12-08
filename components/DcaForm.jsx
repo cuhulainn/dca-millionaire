@@ -16,7 +16,7 @@ import {
 // import DatePicker from "@mui/lab/DatePicker";
 import { formatISO9075 } from "date-fns";
 
-const DcaForm = ({ setResults, setIsChartDataLoaded }) => {
+const DcaForm = ({ setResults, setIsResultDataLoaded }) => {
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [coins, setCoins] = useState([]);
@@ -127,7 +127,7 @@ const DcaForm = ({ setResults, setIsChartDataLoaded }) => {
             coin: inputs.coin,
           });
           setIsLoaded(true);
-          setIsChartDataLoaded(true);
+          setIsResultDataLoaded(true);
         },
         (err) => {
           setError(err);
@@ -239,19 +239,6 @@ const DcaForm = ({ setResults, setIsChartDataLoaded }) => {
               Calculate
             </Button>
           </Grid>
-          {/* <Grid item>
-            <FormControl fullWidth>
-              <LocalizationProvider dateAdapter={DateAdapter}>
-                <DatePicker
-                  label="Starting Date"
-                  id="startDate"
-                  value={inputs.startDate}
-                  onChange={handleDateChange}
-                  renderInput={(params) => <TextField {...params} />}
-                />
-              </LocalizationProvider>
-            </FormControl>
-          </Grid> */}
         </Grid>
       ) : (
         <CircularProgress color="secondary" />
