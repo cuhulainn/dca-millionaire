@@ -1,10 +1,8 @@
 import React from "react";
-import { Line } from "react-chartjs-2";
+import { Bar } from "react-chartjs-2";
 import {
   Chart as ChartJS,
-  LineController,
-  LineElement,
-  PointElement,
+  BarElement,
   LinearScale,
   Title,
   CategoryScale,
@@ -13,9 +11,7 @@ import {
 } from "chart.js";
 
 ChartJS.register(
-  LineController,
-  LineElement,
-  PointElement,
+  BarElement,
   LinearScale,
   CategoryScale,
   Title,
@@ -23,7 +19,7 @@ ChartJS.register(
   Legend
 );
 
-const DcaChart = ({ dcaChartData }) => {
+const PerformanceChart = ({ dcaChartData }) => {
   let labelData = [...dcaChartData].reverse().map((dp) => dp.date);
 
   const chartOptions = {
@@ -39,7 +35,7 @@ const DcaChart = ({ dcaChartData }) => {
       },
       title: {
         display: true,
-        text: "Value of Investment Over Time",
+        text: "Performance of Investment Over Time",
       },
     },
   };
@@ -48,21 +44,19 @@ const DcaChart = ({ dcaChartData }) => {
     labels: labelData,
     datasets: [
       {
-        label: "Amount Invested",
+        label: "% Return on Investment",
         borderColor: "blue",
         backgroundColor: "lightblue",
-        data: dcaChartData.map((dp) => dp.usdTotalInvested),
-      },
-      {
-        label: "Value of Investment",
-        borderColor: "red",
-        backgroundColor: "pink",
-        data: dcaChartData.map((dp) => dp.usdTotalValue),
+        data: dcaChartData.map(
+          (dp) =>
+            ((dp.usdTotalValue - dp.usdTotalInvested) / dp.usdTotalInvested) *
+            100
+        ),
       },
     ],
   };
 
-  return <Line type="line" data={chartData} options={chartOptions} />;
+  return <Bar type="bar" data={chartData} options={chartOptions} />;
 };
 
-export default DcaChart;
+export default PerformanceChart;

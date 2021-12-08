@@ -3,12 +3,12 @@ import DcaForm from "../../components/DcaForm";
 import DcaResults from "../../components/DcaResults";
 
 const DateCalculator = () => {
-  const [isChartDataLoaded, setIsChartDataLoaded] = useState(false);
+  const [isResultDataLoaded, setIsResultDataLoaded] = useState(false);
   const [results, setResults] = useState([]);
 
   return (
     <div>
-      {isChartDataLoaded ? (
+      {isResultDataLoaded ? (
         <DcaResults
           startDate={results.startDate}
           totalUsdAmount={results.totalUsdAmount}
@@ -21,7 +21,7 @@ const DateCalculator = () => {
       ) : (
         <DcaForm
           setResults={setResults}
-          setIsChartDataLoaded={setIsChartDataLoaded}
+          setIsResultDataLoaded={setIsResultDataLoaded}
         />
       )}
     </div>

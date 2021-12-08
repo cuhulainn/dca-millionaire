@@ -1,5 +1,6 @@
 import React from "react";
 import DcaChart from "./DcaChart";
+import PerformanceChart from "./PerformanceChart";
 import { Typography, Box, Grid } from "@mui/material";
 import { formatISO9075 } from "date-fns";
 
@@ -32,6 +33,7 @@ const DcaResults = ({
       </Grid>
 
       <DcaChart dcaChartData={dcaChartData} />
+      <PerformanceChart dcaChartData={dcaChartData} />
     </Grid>
   );
 };
