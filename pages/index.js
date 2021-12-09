@@ -33,7 +33,7 @@ const Home = () => {
             this strategy in order to be worth $1M today (or other target amount
             of your choice)!
           </Typography>
-          <MuiNextLink href={"/dateCalculator"}>
+          <MuiNextLink href={"/dateCalculator"} underline="none">
             <Button fullWidth variant="contained" color="primary">
               Get Started
             </Button>
